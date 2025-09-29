@@ -4,7 +4,7 @@
 
 Este repositorio contiene **notebooks de Python** con ejercicios resueltos de programación básica, en dos versiones:  
 
-- ✅ **Versión 1 – Sin list comprehension** → ejercicios resueltos con bucles tradicionales (`for` / `while`).  
+- ✅ **Versión 1 – Sin list comprehension** → ejercicios resueltos con bucles tradicionales (`for`).  
 - 🔜 **Versión 2 – Con list comprehension** → los mismos ejercicios reescritos de forma más compacta y “pythónica”.  
 
 El objetivo es **comparar ambas aproximaciones** y comprender las ventajas e inconvenientes de cada estilo.  
