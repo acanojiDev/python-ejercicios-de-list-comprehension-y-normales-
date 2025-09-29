@@ -39,9 +39,9 @@ Todos los ejercicios están implementados con **bucles explícitos** (`for`, `wh
 
 ## 📘 Contenido de la Versión 2 (con list comprehension)  
 
-Notebook: `con_list_comprehension_ejercicios.ipynb` (pendiente de completar).  
+Notebook: `con_list_comprehension_ejercicios.ipynb`.  
 
-Será la versión equivalente de los ejercicios anteriores, pero usando **list comprehensions** para:  
+Es la versión equivalente de los ejercicios anteriores, pero usando **list comprehensions** para:  
 
 - Escribir menos código.  
 - Hacer las soluciones más concisas y legibles.  
